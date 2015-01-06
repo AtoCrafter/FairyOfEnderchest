@@ -1,0 +1,15 @@
+[
+{
+  "modid": "FairyOfEnderchest",
+  "name": "Fairy of Enderchest MOD",
+  "description": "Add Fairy of Enderchest.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ato"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
