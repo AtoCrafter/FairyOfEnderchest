@@ -1,3 +1,6 @@
+[![Build Status](https://drone.io/github.com/AtoCrafter/FairyOfEnderchest/status.png)](https://drone.io/github.com/AtoCrafter/FairyOfEnderchest/latest)
+
+
 # Fiary of Enderchest
 
 Minecraft MOD
